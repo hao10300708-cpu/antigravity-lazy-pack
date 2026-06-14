@@ -54,3 +54,29 @@ images/generated/
 wordcloud-app/
 scratch/
 tmp/
+
+# Obsidian Vault
+Secondbrain/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Agent Skills
+.agents/
+skills-lock.json
+
+# Local Project Rules
+ANTIGRAVITY.md
+
+# Google Drive shortcuts
+*.gsheet
+
+# Gmail maintenance tools
+clean_gmail.bat
+delete_old_emails.py
+delete_old_notifications.py
+delete_selected_senders.py
+gmail_cleaner.py
+scan_updates.py
+
